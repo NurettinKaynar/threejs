@@ -1,0 +1,19 @@
+
+.buttonContainer{
+  display: flex;
+  flex-direction: row;
+  gap:2rem;
+  align-items: center;
+}
+
+.button{
+
+  border-radius: 1rem;
+  outline:none;
+
+}
+
+.button > span{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 24px;
+}
